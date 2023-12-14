@@ -2,7 +2,7 @@
 Language Translation using Neural Networks
 
 Project Purpose:
-The objective of this project is to implement a Recurrent Neural Network (RNN) sequence-to-sequence model using Keras for language translation, specifically from English to French. While the default language pair is English to French, the system is designed to be adaptable to other language pairs. The ANKI dataset is utilized for training, and it can be easily obtained here.
+The objective of this project is to implement a Recurrent Neural Network (RNN) sequence-to-sequence model using Keras for language translation, specifically from English to French. While the default language pair is English to French, the system is designed to be adaptable to other language pairs. 
 
 What is Sequence-to-Sequence Learning?
 Sequence-to-sequence learning involves training models to convert sequences from one domain to sequences in another domain. The process can be summarized as follows:
@@ -80,3 +80,6 @@ Translation not correct.
 
 Conclusion
 In conclusion, the network has learned the basic concepts of English/French translation but requires more training time and a deeper architecture, such as incorporating additional LSTM cells, for improved accuracy.
+
+Citation:  https://www.interviewbit.com/blog/deep-learning-projects/
+           https://www.fireblazeaischool.in/blogs/language-translation-using-deep-learning/
