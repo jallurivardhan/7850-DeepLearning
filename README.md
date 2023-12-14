@@ -29,7 +29,7 @@ NumPy
 
 Clone the repository:
 git clone https://github.com/jallurivardhan/7850-DeepLearning.git
-cd your-repository
+cd 7850-DeepLearning
 
 Install the required dependencies:
 pip install -r fra.txt
